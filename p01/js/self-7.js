@@ -45,3 +45,8 @@ function firstOutOfStock(names, counts) {
 
 console.log('Первый товар, которого нет на складе:',
     firstOutOfStock(products, stock));
+
+
+
+    
+//позднее добавление коммита
