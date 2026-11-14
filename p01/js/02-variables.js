@@ -33,3 +33,4 @@ if (true) {
 console.log(insideVar);
 console.log(typeof insideLet);
 
+//позднее добавление коммита
