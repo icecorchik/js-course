@@ -29,3 +29,5 @@ console.log("note ?? '-' =", note ?? '-');
 console.log('discount ?? 0 =', discount ?? 0);
 
 
+
+//позднее добавление коммита
