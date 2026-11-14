@@ -31,3 +31,6 @@ function registerVisit() {
 registerVisit();
 registerVisit();
 console.log('визитов:', visits);
+
+
+// 6 тренировочное задание
