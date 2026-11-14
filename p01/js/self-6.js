@@ -30,3 +30,7 @@ for (let i = 0; i < prices.length; i++) {
     }
 }
 console.log('Индекс первой цены выше 1000:', firstIndex);
+
+
+
+//позднее добавление коммита
