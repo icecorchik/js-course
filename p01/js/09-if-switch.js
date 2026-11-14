@@ -38,3 +38,5 @@ function dayType(day) {
 console.log(dayType('вс'), '|', dayType('пт'), '|', dayType('ср'));
 
 
+
+//позднее добавление коммита
