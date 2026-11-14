@@ -13,3 +13,7 @@ console.log(price, typeof price);
 console.log(stockQuantity, typeof stockQuantity);
 console.log(discount, typeof discount);
 console.log(inStock, typeof inStock);
+
+
+
+//позднее добавление коммита
