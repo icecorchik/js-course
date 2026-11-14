@@ -47,3 +47,8 @@ console.log(statusTernary(2));
 console.log(statusObject(2));
 
 console.log(statusObject(5));
+
+
+
+
+//позднее добавление коммита
