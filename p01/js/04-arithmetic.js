@@ -28,3 +28,6 @@ const discountKop = Math.round(priceKop * 85 / 100);
 const totalKop = discountKop * 3;
 console.log('Итого:', (totalKop / 100).toFixed(2), '$(Представьте значок рубля)');
 console.log(typeof (totalKop / 100).toFixed(2));
+
+
+//позднее добавление коммита
