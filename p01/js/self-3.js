@@ -30,3 +30,7 @@ function describe(perms) {
 console.log(describe(READ | DELETE));
 console.log(describe(READ | WRITE));
 console.log(describe(READ | WRITE | DELETE | ADMIN));
+
+
+
+//позднее добавление коммита
