@@ -50,3 +50,7 @@ for (let row = 1; row <= 3; row++) {
     }
     console.log(line);
 }
+
+
+
+//позднее добавление коммита
