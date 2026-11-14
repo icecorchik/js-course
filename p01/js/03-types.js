@@ -31,3 +31,5 @@ let manager = null;
 console.log(coupon, manager);
 console.log(typeof [1, 2, 3], Array.isArray([1, 2, 3]));
 
+
+//позднее добавление коммита
