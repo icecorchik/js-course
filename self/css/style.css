@@ -73,3 +73,16 @@ main {
 .heading-accent {
     color: #1a73e8;
 }
+
+
+
+product-card {
+    display: block;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 16px;
+}
+
+
+
